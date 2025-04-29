@@ -2,6 +2,9 @@
 
 A beautiful and functional to-do list application built with HTML, CSS, and JavaScript.
 
+![image](https://github.com/user-attachments/assets/ef52ff6f-33dd-48a5-9c3a-ebb7de3cb3e5)
+
+
 ## Features ✨
 
 - **Add tasks** with a simple input
